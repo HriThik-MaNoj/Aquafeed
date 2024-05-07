@@ -33,15 +33,7 @@ function toggleDiv() {
 }
 
 const firebaseConfig = {
-   const firebaseConfig = {
-  apiKey: "AIzaSyCqPbFXZWTqXmDX0OOGaQrouReublOPtGY",
-  authDomain: "aquafeed-dad74.firebaseapp.com",
-  databaseURL: "https://aquafeed-dad74-default-rtdb.firebaseio.com",
-  projectId: "aquafeed-dad74",
-  storageBucket: "aquafeed-dad74.appspot.com",
-  messagingSenderId: "500671461180",
-  appId: "1:500671461180:web:fcad1fb49bc742f2895039",
-  measurementId: "G-JQCM6DF51W"
+
 };
 };
 firebase.initializeApp(firebaseConfig);
